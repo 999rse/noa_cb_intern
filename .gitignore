@@ -1,3 +1,8 @@
 train_data
 .DS_Store
 dataframes
+/doc
+/data2
+/*.txt
+/raw_data
+/_*
